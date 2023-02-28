@@ -1,6 +1,6 @@
 #
 10 GitHub Repos To Make You a Better Developer. Guaranteed.
-https://medium.com/@AmanPawasker/10-famous-github-repositories-that-will-make-you-a-better-developer-guaranteed-e7342e2f6f1b
+(https://medium.com/@AmanPawasker/10-famous-github-repositories-that-will-make-you-a-better-developer-guaranteed-e7342e2f6f1b
 
 
 1.https://github.com/ossu/computer-science
